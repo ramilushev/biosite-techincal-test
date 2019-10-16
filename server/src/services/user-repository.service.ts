@@ -50,6 +50,10 @@ export class DeleteUser {
     id: string = '';
 }
 
+export class MergeUsers {
+  ids: string[] = [];
+}
+
 export class UpdateName {
     @IsUUID()
     id: string = '';

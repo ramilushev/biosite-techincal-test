@@ -1,0 +1,8 @@
+.UserCard {
+  background-color: rgb(159, 173, 62);
+	color: #000000;
+	padding: 10px 20px;
+	margin: 20px;
+	border-radius: 20px;
+	flex-shrink: 0
+}
