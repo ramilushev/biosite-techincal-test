@@ -1,0 +1,21 @@
+.User {
+	
+}
+
+.User-field {
+	font-size: 25px
+}
+
+.User-label {
+	color: #464646;
+}
+
+.User-button-container {
+	display: flex;
+	justify-content: space-around;
+	padding: 20px 0;
+}
+
+.User-button {
+	margin: 0 5px
+}

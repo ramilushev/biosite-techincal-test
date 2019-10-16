@@ -1,0 +1,17 @@
+.Button {
+	padding: 5px 10px;
+	border: none;
+	font: inherit;
+	color: #FFFFFF;
+	background-color: #005baf;
+	cursor: pointer;
+	border-radius: 10px;
+}
+
+.Button:hover {
+	background-color: black
+}
+
+.Button:active {
+	background-color: red
+}

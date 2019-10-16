@@ -1,0 +1,15 @@
+.AddUser {
+  display: flex;
+  flex-direction: column;
+}
+
+.AddUser-input {
+  background-color: bisque;
+  border-radius: 5px;
+  font-size: 18px;
+  display: block;
+}
+
+.AddUser-button {
+  margin-top: 10px;
+}
